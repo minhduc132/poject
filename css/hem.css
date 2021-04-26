@@ -33,7 +33,7 @@ body{
 #footer{
     background:#00C5CD;
     width:1250px;
-    height: 305px;
+    height: 300px;
     color: #FFF;
     clear: left;
     line-hight: 60px;
@@ -55,10 +55,10 @@ body{
     display: block;
     height: 100px;
     color:#FFF;
-    padding: 23px 43px;
+    padding: 28px 27px;
     border-right: 1px solid #f1f1f1;
     float:left;
-    font-size: 20px;
+    font-size: 34px;
 }
 
 
