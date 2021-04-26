@@ -33,9 +33,10 @@ body{
 #footer{
     background:#00C5CD;
     width:1250px;
-    height: 300px;
+    height: 328px;
     color: #FFF;
     clear: left;
+    font-size:20px;
     line-hight: 60px;
 }
 
