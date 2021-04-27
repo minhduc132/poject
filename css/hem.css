@@ -10,6 +10,7 @@ body{
     height: 110px;
 }
 
+
 #banner {
     height: auto;
     width: 1250px;
@@ -61,7 +62,6 @@ body{
     float:left;
     font-size: 34px;
 }
-
 
 #banner img{
     width:1250px;
